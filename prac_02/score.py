@@ -19,5 +19,4 @@ def determine_score_status(score):
         return "Passable"
     else:
         return "Bad"
-
 main()
